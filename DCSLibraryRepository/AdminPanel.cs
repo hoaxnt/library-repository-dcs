@@ -25,17 +25,13 @@ namespace DCSLibraryRepository
             {
                 UserListPanel.AddItem(account);
             }
-
         }
-
         private void DeleteBtn_Click(object sender, EventArgs e)
-        {
-            
+        { 
         }
-
         private void EditBtn_Click(object sender, EventArgs e)
         {
-
         }
+       
     }
 }

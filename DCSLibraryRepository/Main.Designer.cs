@@ -42,7 +42,7 @@
             DetailsLabel.Name = "DetailsLabel";
             DetailsLabel.Size = new Size(1149, 495);
             DetailsLabel.TabIndex = 0;
-            DetailsLabel.Text = "The main page mofo";
+            DetailsLabel.Text = "none";
             // 
             // MainForm
             // 

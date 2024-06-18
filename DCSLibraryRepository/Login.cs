@@ -1,5 +1,7 @@
 using MaterialSkin;
 using MaterialSkin.Controls;
+using Microsoft.VisualBasic.Devices;
+using System.Data;
 using System.IO;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
@@ -11,9 +13,10 @@ namespace DCSLibraryRepository
         private string path = @"C:\ProgramData\DCSlogs";
         private string logfile = "data";
         private string logged = "current_user";
-
+        
         public LoginForm()
         {
+           
             if (!Directory.Exists(path))
             {
                 Directory.CreateDirectory(path);
@@ -85,22 +88,11 @@ namespace DCSLibraryRepository
             InvalidLabel.Visible = true;
             return false;
         }
-
         private void CreateAccountBtn_Click(object sender, EventArgs e)
         {
             RegisterForm register = new RegisterForm();
             register.Show();
 
         }
-
-        private void tb_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.KeyCode == Keys.Enter)
-            {
-                //enter key is down
-                materialLabel1.Text = "orb";
-            }
-        }
-
     }
 }

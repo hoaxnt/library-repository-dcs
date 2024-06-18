@@ -42,12 +42,12 @@
             UserListPanel.BorderColor = Color.LightGray;
             UserListPanel.Depth = 0;
             UserListPanel.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
-            UserListPanel.Location = new Point(227, 17);
+            UserListPanel.Location = new Point(166, 17);
             UserListPanel.MouseState = MaterialSkin.MouseState.HOVER;
             UserListPanel.Name = "UserListPanel";
             UserListPanel.SelectedIndex = -1;
             UserListPanel.SelectedItem = null;
-            UserListPanel.Size = new Size(678, 361);
+            UserListPanel.Size = new Size(739, 361);
             UserListPanel.TabIndex = 0;
             // 
             // EditBtn
