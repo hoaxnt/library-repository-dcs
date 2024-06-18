@@ -59,3 +59,43 @@ E:\VisualBasicProjects\LibraryRepositoryDCS\DCSLibraryRepository\bin\Debug\net8.
 E:\VisualBasicProjects\LibraryRepositoryDCS\DCSLibraryRepository\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
 E:\VisualBasicProjects\LibraryRepositoryDCS\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.RegisterForm.resources
 E:\VisualBasicProjects\LibraryRepositoryDCS\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.MainForm.resources
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\DCSLibraryRepository.exe
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\DCSLibraryRepository.deps.json
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\DCSLibraryRepository.runtimeconfig.json
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\DCSLibraryRepository.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\DCSLibraryRepository.pdb
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\MaterialSkin.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.LoginForm.resources
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.MainForm.resources
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.RegisterForm.resources
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.sourcelink.json
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibra.AE0DB773.Up2Date
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\refint\DCSLibraryRepository.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.pdb
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\ref\DCSLibraryRepository.dll

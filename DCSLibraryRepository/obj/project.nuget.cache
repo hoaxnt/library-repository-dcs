@@ -1,18 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DdjY12bzpKQ=",
+  "dgSpecHash": "51Jyk6NaJe6R0npLRNUOosqNtuzQZiWMdL9mtk0u1dQBMXcmILQUq4fSVqQ24HhmvSwNrze+j4bKckWhPGbsDw==",
   "success": true,
-  "projectFilePath": "E:\\VisualBasicProjects\\LibraryRepositoryDCS\\DCSLibraryRepository\\DCSLibraryRepository.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\DCSLibrary Repository\\library-repository-dcs\\DCSLibraryRepository\\DCSLibraryRepository.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\CaxperHat\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512",
-    "C:\\Users\\CaxperHat\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+    "C:\\Users\\ADMIN\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\VisualBasicProjects\\LibraryRepositoryDCS\\DCSLibraryRepository\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VisualBasicProjects\\LibraryRepositoryDCS\\DCSLibraryRepository\\DCSLibraryRepository.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\DCSLibrary Repository\\library-repository-dcs\\DCSLibraryRepository\\DCSLibraryRepository.csproj": {}
   },
   "projects": {
-    "E:\\VisualBasicProjects\\LibraryRepositoryDCS\\DCSLibraryRepository\\DCSLibraryRepository.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\DCSLibrary Repository\\library-repository-dcs\\DCSLibraryRepository\\DCSLibraryRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VisualBasicProjects\\LibraryRepositoryDCS\\DCSLibraryRepository\\DCSLibraryRepository.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\DCSLibrary Repository\\library-repository-dcs\\DCSLibraryRepository\\DCSLibraryRepository.csproj",
         "projectName": "DCSLibraryRepository",
-        "projectPath": "E:\\VisualBasicProjects\\LibraryRepositoryDCS\\DCSLibraryRepository\\DCSLibraryRepository.csproj",
-        "packagesPath": "C:\\Users\\CaxperHat\\.nuget\\packages\\",
-        "outputPath": "E:\\VisualBasicProjects\\LibraryRepositoryDCS\\DCSLibraryRepository\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\DCSLibrary Repository\\library-repository-dcs\\DCSLibraryRepository\\DCSLibraryRepository.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\DCSLibrary Repository\\library-repository-dcs\\DCSLibraryRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CaxperHat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
