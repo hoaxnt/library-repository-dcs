@@ -35,7 +35,7 @@ namespace DCSLibraryRepository
             {
                 PasswordField.UseSystemPasswordChar = true;
             }
-           
+
         }
 
 
@@ -45,7 +45,7 @@ namespace DCSLibraryRepository
             UsernameField.Clear();
             PasswordField.Clear();
             ShowPasswordCheckbox.Checked = false;
-            
+
         }
 
         private bool ValidateCredentials(string username, string password)
@@ -91,6 +91,9 @@ namespace DCSLibraryRepository
 
         }
 
-        
+        private void materialButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

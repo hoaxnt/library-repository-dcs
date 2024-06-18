@@ -38,7 +38,7 @@
             pictureBox1 = new PictureBox();
             InvalidLabel = new MaterialSkin.Controls.MaterialLabel();
             ShowPasswordCheckbox = new MaterialSkin.Controls.MaterialCheckbox();
-            materialButton1 = new MaterialSkin.Controls.MaterialButton();
+            test = new MaterialSkin.Controls.MaterialButton();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -217,24 +217,25 @@
             ShowPasswordCheckbox.UseVisualStyleBackColor = true;
             ShowPasswordCheckbox.CheckedChanged += ShowPasswordCheckbox_CheckedChanged;
             // 
-            // materialButton1
+            // test
             // 
-            materialButton1.AutoSizeMode = AutoSizeMode.GrowAndShrink;
-            materialButton1.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
-            materialButton1.Depth = 0;
-            materialButton1.HighEmphasis = true;
-            materialButton1.Icon = null;
-            materialButton1.Location = new Point(412, 466);
-            materialButton1.Margin = new Padding(4, 6, 4, 6);
-            materialButton1.MouseState = MaterialSkin.MouseState.HOVER;
-            materialButton1.Name = "materialButton1";
-            materialButton1.NoAccentTextColor = Color.Empty;
-            materialButton1.Size = new Size(158, 36);
-            materialButton1.TabIndex = 16;
-            materialButton1.Text = "materialButton1";
-            materialButton1.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
-            materialButton1.UseAccentColor = false;
-            materialButton1.UseVisualStyleBackColor = true;
+            test.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            test.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
+            test.Depth = 0;
+            test.HighEmphasis = true;
+            test.Icon = null;
+            test.Location = new Point(412, 466);
+            test.Margin = new Padding(4, 6, 4, 6);
+            test.MouseState = MaterialSkin.MouseState.HOVER;
+            test.Name = "test";
+            test.NoAccentTextColor = Color.Empty;
+            test.Size = new Size(158, 36);
+            test.TabIndex = 16;
+            test.Text = "materialButton1";
+            test.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
+            test.UseAccentColor = false;
+            test.UseVisualStyleBackColor = true;
+            test.Click += materialButton1_Click;
             // 
             // LoginForm
             // 
@@ -242,7 +243,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(745, 541);
-            Controls.Add(materialButton1);
+            Controls.Add(test);
             Controls.Add(ShowPasswordCheckbox);
             Controls.Add(InvalidLabel);
             Controls.Add(CreateAccountBtn);
@@ -272,6 +273,6 @@
         private PictureBox pictureBox1;
         private MaterialSkin.Controls.MaterialLabel InvalidLabel;
         private MaterialSkin.Controls.MaterialCheckbox ShowPasswordCheckbox;
-        private MaterialSkin.Controls.MaterialButton materialButton1;
+        private MaterialSkin.Controls.MaterialButton test;
     }
 }
