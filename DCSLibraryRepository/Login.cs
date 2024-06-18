@@ -49,21 +49,16 @@ namespace DCSLibraryRepository
             }
            
         }
-
-
         private void LoginPressed(object sender, EventArgs e)
         {
             ValidateCredentials(UsernameField.Text, PasswordField.Text);
             UsernameField.Clear();
             PasswordField.Clear();
             ShowPasswordCheckbox.Checked = false;
-            
         }
 
         private bool ValidateCredentials(string username, string password)
         {
-            
-
             string[] accounts = File.ReadAllLines(Path.Combine(path, logfile));
             foreach (string account in accounts)
             {
@@ -98,6 +93,14 @@ namespace DCSLibraryRepository
 
         }
 
-        
+        private void tb_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                //enter key is down
+                materialLabel1.Text = "orb";
+            }
+        }
+
     }
 }
