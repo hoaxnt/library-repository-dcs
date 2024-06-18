@@ -99,3 +99,4 @@ C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRe
 C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.pdb
 C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\ref\DCSLibraryRepository.dll
+C:\Users\ADMIN\Desktop\DCSLibrary Repository\library-repository-dcs\DCSLibraryRepository\obj\Debug\net8.0-windows\DCSLibraryRepository.AdminPanel.resources

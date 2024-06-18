@@ -1,6 +1,7 @@
 using MaterialSkin;
 using MaterialSkin.Controls;
 using System.IO;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 
 namespace DCSLibraryRepository
@@ -13,10 +14,21 @@ namespace DCSLibraryRepository
 
         public LoginForm()
         {
-
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+            if (!File.Exists(logfile))
+            {
+                File.Create(logfile);
+            }
+            if (!File.Exists(logged))
+            {
+                File.Create(logged);
+            }
 
             this.MaximizeBox = false;
-
+            
             InitializeComponent();
             var materialSkinManager = MaterialSkinManager.Instance;
             materialSkinManager.AddFormToManage(this);
@@ -50,22 +62,17 @@ namespace DCSLibraryRepository
 
         private bool ValidateCredentials(string username, string password)
         {
-            if (!Directory.Exists(path))
-            {
-                Directory.CreateDirectory(path);
-            }
-            if (!File.Exists(logfile))
-            {
-                File.Create(logfile);
-            }
-            if (!File.Exists(logged))
-            {
-                File.Create(logged);
-            }
+            
 
             string[] accounts = File.ReadAllLines(Path.Combine(path, logfile));
             foreach (string account in accounts)
             {
+                if (UsernameField.Text == "admin" && PasswordField.Text == "admin")
+                {
+                    AdminPanel admin = new AdminPanel();
+                    admin.Show();
+                    break;
+                }
                 string[] credentials = account.Split(',');
                 if (credentials[5] == username && credentials[6] == password)
                 {
